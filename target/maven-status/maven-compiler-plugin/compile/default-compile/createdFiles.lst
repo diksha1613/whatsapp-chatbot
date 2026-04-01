@@ -1,0 +1,4 @@
+com\example\whatsapp_bot\controller\WebhookController.class
+com\example\whatsapp_bot\service\ChatService.class
+com\example\whatsapp_bot\WhatsappBotApplication.class
+com\example\whatsapp_bot\model\MessageRequest.class
